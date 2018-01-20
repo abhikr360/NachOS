@@ -1,0 +1,4 @@
+2
+../test/matmult 77
+../test/shell 69
+../test/forkjoin_hard 20

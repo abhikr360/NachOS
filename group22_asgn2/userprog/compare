@@ -1,0 +1,150 @@
+01234567899911335577991133557799113355779002244668800224466880022446688012345678
+
+
+
+
+
+
+
+
+
+TTTTTTTTTToooooooooottttttttttaaaaaaaaaallllllllll          ssssssssssuuuuuuuuuummmmmmmmmm::::::::::          0000000000
+
+
+
+
+
+
+
+
+
+SSSSSSSSSSttttttttttaaaaaaaaaarrrrrrrrrrtttttttttt          ttttttttttiiiiiiiiiimmmmmmmmmmeeeeeeeeee::::::::::          1124681111832234024679074145665,753174181 ,,,,9753,E    ,,,, nEEEE    EdnnnnEEEEn ddddnnnndt    dddd itttt    tmiiiittttiemmmmiiiim:eeeemmmme ::::eeee:8    :::: 58888    5355558888374578566601890190128,111123456 ,,,,1111,T    ,,,, oTTTT    TtooooTTTToattttooootlaaaatttta llllaaaalt    llll itttt    tmiiiittttiemmmmiiiim:eeeemmmme ::::eeee:8    :::: 58877    3231977776432334531932715044553
+468048265
+
+
+
+2468
+
+
+
+
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+Machine halting! 10
+
+Total CPU Busy Time  : 763 
+Total Execution Time : 159263 
+CPU Utilization : 56.214733
+Maximum CPU Burst : 2068, Minimum CPU Burst : 0, Average CPU Burst : 118.165138
+No. of non zero CPU Bursts Observed : 763
+Average Waiting Time in Ready Queue : 24409.000000
+Maximum Thread Completion Time :  160385
+Minimum Thread Completion Time :  157965
+Average Thread Completion Time :  159571.000000
+Variance of Thread Completion Time :  25209765570.000000
+Prediction Error : 81.329718  
+
+Cleaning up...
+01234567899911335577991133557799113355779002244668800224466880022446688012345678
+
+
+
+
+
+
+
+
+
+TTTTTTTTTToooooooooottttttttttaaaaaaaaaallllllllll          ssssssssssuuuuuuuuuummmmmmmmmm::::::::::          0000000000
+
+
+
+
+
+
+
+
+
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+Machine halting! 10
+
+Total CPU Busy Time  : 229 
+Total Execution Time : 100463 
+CPU Utilization : 82.866565
+Maximum CPU Burst : 2062, Minimum CPU Burst : 0, Average CPU Burst : 367.598253
+No. of non zero CPU Bursts Observed : 229
+Average Waiting Time in Ready Queue : 24355.000000
+Maximum Thread Completion Time :  101585
+Minimum Thread Completion Time :  100595
+Average Thread Completion Time :  101090.000000
+Variance of Thread Completion Time :  10118365810.000000
+Prediction Error : 85.974378  
+
+Cleaning up...
+01234567899911335577991133557799113355779002244668800224466880022446688012345678
+
+
+
+
+
+
+
+
+
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+Machine halting! 10
+
+Total CPU Busy Time  : 99 
+Total Execution Time : 86163 
+CPU Utilization : 94.724179
+Maximum CPU Burst : 2062, Minimum CPU Burst : 0, Average CPU Burst : 835.151515
+No. of non zero CPU Bursts Observed : 99
+Average Waiting Time in Ready Queue : 24355.000000
+Maximum Thread Completion Time :  87285
+Minimum Thread Completion Time :  86295
+Average Thread Completion Time :  86790.000000
+Variance of Thread Completion Time :  7458368470.000000
+Prediction Error : 63.874274  
+
+Cleaning up...
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+Machine halting! 10
+
+Total CPU Busy Time  : 10 
+Total Execution Time : 0 
+CPU Utilization : 99.864649
+Maximum CPU Burst : 8116, Minimum CPU Burst : 8116, Average CPU Burst : 8116.000000
+No. of non zero CPU Bursts Observed : 10
+Average Waiting Time in Ready Queue : 36577.000000
+Maximum Thread Completion Time :  81270
+Minimum Thread Completion Time :  8226
+Average Thread Completion Time :  44748.000000
+Variance of Thread Completion Time :  2545806517.000000
+Prediction Error : 0.000000  
+
+Cleaning up...
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+Machine halting! 10
+
+Total CPU Busy Time  : 50 
+Total Execution Time : 61380 
+CPU Utilization : 99.822093
+Maximum CPU Burst : 2036, Minimum CPU Burst : 34, Average CPU Burst : 1234.400000
+No. of non zero CPU Bursts Observed : 50
+Average Waiting Time in Ready Queue : 40195.000000
+Maximum Thread Completion Time :  61830
+Minimum Thread Completion Time :  31014
+Average Thread Completion Time :  46422.000000
+Variance of Thread Completion Time :  2352644953.000000
+Prediction Error : 38.828581  
+
+Cleaning up...
